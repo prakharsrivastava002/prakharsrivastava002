@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakharsrivastava002
+- 👋 Hi, I’m Prakhar
 - 👀 I’m interested in Machine learning research and development
 - 🌱 I’m currently learning NLP and Text analytics
 - 💞️ I’m looking to collaborate on ML & NLP
