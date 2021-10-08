@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prakhar
-- 👀 I’m interested in Machine learning research and development
-- 🌱 I’m currently learning NLP and Text analytics
+- 👀 I’m interested in Machine learning research and development & Consulting
+- 🌱 I’m currently learning NLP and Deep learning.
 - 💞️ I’m looking to collaborate on ML & NLP
 - 📫 How to reach me - prakharsrivastava002@gmail.com
 
